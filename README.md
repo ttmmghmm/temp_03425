@@ -1,5 +1,16 @@
 # For UBP
 
++ Please do _not_ increase the bet size, until we improve communication.
++ I do not know who Colin, the Irish guy,  is.
++ I am in London and not Dublin.
++ I did not create a subaccount. 
+  + I dont even know where your account is being held.  
++ I suggest buying a new ultra-cheap pc. Install nothing. 
+  + Login to proton. Send me an email with a password that only I know.
+
+John. 12th Nov Thurs. 21:22.
+
+---
 + Edit this file manually 
   + Click the 'pen' icon on the top right of this page in your _webbrowser_.
 + Type a message at the _top_ of this file with date time on it 
