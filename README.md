@@ -1,14 +1,20 @@
 # For UBP
 
-+ Please do _not_ increase the bet size, until we improve communication.
-+ I do not know who Colin, the Irish guy,  is.
-+ I am in London and not Dublin.
-+ I did not create a subaccount. 
-  + I dont even know where your account is being held.  
-+ I suggest buying a new ultra-cheap pc. Install nothing. 
-  + Login to proton. Send me an email with a password that only I know.
++ Login to one or more of your email accounts from a laptop/phone other than your own.
++ Look for a daily email from a random email address.
+  + Check you bin and spam folders.
++ Follow instructions in email else, via Tor, goto https://protonirockerxow.onion
 
-John. 12th Nov Thurs. 21:22.
+John Nov 25th.
+
+---
+
++ Please do _not_ increase the stake, until we improve communication.
++ I am in London (not Dublin, and I dont know the Colin guy you mentioned)
++ I dont know anything about the accounts that you are using (and do not need to know). 
++ Buy/borrow a laptop. Goto proton via Tor. Send me an email with a password that only I know.
+
+John. 12th Nov Thurs.
 
 ---
 + Edit this file manually 
@@ -23,4 +29,4 @@ John. 12th Nov Thurs. 21:22.
 + Try reading your protonmail emails in a tor browser (or firefox).
   + You should have an almost daily email from me there.
 
-John London Wed 4th at 22:01. 
+John London Wed 4th Nov
