@@ -1,4 +1,4 @@
-# For UBP
+# ubp
 
 + Login to one or more of your email accounts from a laptop/phone other than your own.
 + Look for a daily email from a random email address.
