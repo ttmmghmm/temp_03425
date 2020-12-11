@@ -1,20 +1,20 @@
 # ubp
 
 + Login to one or more of your email accounts from a laptop/phone other than your own.
++ Try reading your protonmail emails in a tor browser (or firefox).
+  + You should have an almost daily email from me there.
 + Look for a daily email from a random email address.
   + Check you bin and spam folders.
 + Follow instructions in email else, via Tor, goto https://protonirockerxow.onion
 
-John Nov 25th.
+https://www.dropbox.com/transfer/AAAAAI-sQKJP-z2DPc-h_UtzV_Z9tMx2xj77I7gqkwGnLB4a8jRirXA
+<br>
+or
+<br>
+https://12-09-ubp-todos--hungry-albattani-4a812a.netlify.app/about.html
+or
+See https://github.com/ubrandtpollmann/ESBetHorizon/blob/master/README.md for more
 
----
-
-+ Please do _not_ increase the stake, until we improve communication.
-+ I am in London (not Dublin, and I dont know the Colin guy you mentioned)
-+ I dont know anything about the accounts that you are using (and do not need to know). 
-+ Buy/borrow a laptop. Goto proton via Tor. Send me an email with a password that only I know.
-
-John. 12th Nov Thurs.
 
 ---
 + Edit this file manually 
@@ -24,9 +24,4 @@ John. 12th Nov Thurs.
 + Type a message at the _top_ of this file with date time on it 
   + like this 'John in London, Sunday 1st Nov at 22:22'. 
   + Commit this edited Readme file.
-  + Send me the linked to the edited file on whatsapp.
-  + My prediction is that as this is a public repo, the link will get to me on whatsapp.
-+ Try reading your protonmail emails in a tor browser (or firefox).
-  + You should have an almost daily email from me there.
-
-John London Wed 4th Nov
+  + Send me the link to this edited readme file on all of your chat apps (whatsapp etc).
