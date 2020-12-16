@@ -1,12 +1,5 @@
 # ubp
 
-+ Login to one or more of your email accounts from a laptop/phone other than your own.
-+ Try reading your protonmail emails in a tor browser (or firefox).
-  + You should have an almost daily email from me there.
-+ Look for a daily email from a random email address.
-  + Check you bin and spam folders.
-+ Follow instructions in email else, via Tor, goto https://protonirockerxow.onion
-
 https://www.dropbox.com/transfer/AAAAAI-sQKJP-z2DPc-h_UtzV_Z9tMx2xj77I7gqkwGnLB4a8jRirXA
 <br>
 or
@@ -14,6 +7,16 @@ or
 https://12-09-ubp-todos--hungry-albattani-4a812a.netlify.app/about.html
 or
 See https://github.com/ubrandtpollmann/ESBetHorizon/blob/master/README.md for more
+
+---
+
++ Login to one or more of your email accounts from a laptop/phone other than your own.
++ Try reading your protonmail emails in a tor browser (or firefox).
+  + You should have an almost daily email from me there.
++ Look for a daily email from a random email address.
+  + Check you bin and spam folders.
++ Follow instructions in email else, via Tor, goto https://protonirockerxow.onion
+
 
 
 ---
